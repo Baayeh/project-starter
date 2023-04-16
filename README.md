@@ -67,11 +67,18 @@ In order to run this project you need:
 
 ### Setup
 
+To use this template, you need to:
+
+- Click on the big green button labelled "Use this template".
+- Select the option "Create a new repository" from the dropdown menu.
+- Select an owner for the repository and name the repository.
+- Click the "Create repository from template" button.
+
 Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Baayeh/project-starter.git
+  git clone https://github.com/Baayeh/my-project.git
 ```
 
 ### Install
@@ -79,7 +86,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd project-starter
+  cd my-project
   npm install
 ```
 
