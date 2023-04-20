@@ -4,7 +4,7 @@
   <img src="https://res.cloudinary.com/dskl0qde4/image/upload/v1681649553/ideas-notations-graphs-written-piece-white-lined-paper-word-start-across-center-underlined-surrounded-90531728_u5pmkj.jpg" alt="logo"  height="auto" />
   <br/>
 
-  <h3><b>Project Starter Template</b></h3>
+  <h3><b>React Project Starter Template</b></h3>
 
 </div>
 
