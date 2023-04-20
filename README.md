@@ -27,7 +27,7 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖 Project Starter <a name="about-project"></a>
+# 📖 React Project Starter <a name="about-project"></a>
 
 **Project starter** is a simple boilerplate created to help users setup a react application quickly with the basic packages.
 
